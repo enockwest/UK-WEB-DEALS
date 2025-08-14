@@ -106,7 +106,7 @@ https://templatemo.com/tm-595-3d-coverflow
         .main-menu {
             display: flex;
             align-items: center;
-            gap: 40px;
+            gap: 20px;
         }
 
         .menu-item {
@@ -1276,4 +1276,5 @@ https://templatemo.com/tm-595-3d-coverflow
                 font-size: 16px;
                 border-radius: 25px;
             }
+
         }
